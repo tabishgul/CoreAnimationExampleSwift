@@ -1,0 +1,6 @@
+framework module Pods_CoreAnimationExample {
+  umbrella header "Pods-CoreAnimationExample-umbrella.h"
+
+  export *
+  module * { export * }
+}
